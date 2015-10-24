@@ -1,4 +1,18 @@
-ÎÒ½ñÌì³¬¼¶½«°®ÐÄ ¶î¶î µÄ¿ÉÊÇ´ÓÄÇÅºÆ¬
+æˆ‘ä»Šå¤©è¶…çº§å°†çˆ±å¿ƒ é¢é¢ çš„å¯æ˜¯ä»Žé‚£è—•ç‰‡
 
 
+<<<<<<< HEAD
 ½ñÌìºÜÀ´ÐÅ
+=======
+ä»Šå¤©å¾ˆæ¥ä¿¡
+
+
+hello
+
+google
+
+wangchen
+
+
+who are you!!...
+>>>>>>> origin/master
